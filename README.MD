@@ -48,19 +48,19 @@
 * Installed git
 * Cloned repository https://github.com/AngelTX/CatalogProject into my /var/www directory.
 * Installed the following programs:
-** flask
-** httplib2
-** sqlalchemy
-** requests
-** oauth2client
-** psycopg2
-** google
-** google_auth_oauthlib
+* flask
+* httplib2
+* sqlalchemy
+* requests
+* oauth2client
+* psycopg2
+* google
+* google_auth_oauthlib
 * Changed application to __init__.py
 
 #### Virtual Host
 
-* created '''esports.conf''' file under the '''/etc/apache2/sites-avaiable/''' directory
+* created `esports.conf` file under the `/etc/apache2/sites-avaiable/` directory
 * Updated the contents of the config file to run my application.
 * created a wsgi file and configured to run my application
 
