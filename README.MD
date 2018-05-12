@@ -39,14 +39,14 @@
 #### PostgreSQL Configuration
 
 * By default, remote connections are disabled.
-* Created database user '''catalog'''
-* set a password for ''''catalog''': '''udacity'''
+* Created database user `catalog`
+* set a password for `catalog`: `udacity`
 * catalog has sudo access.
 * created a database and assigned it to catalog
 
 #### eSports App Setup
 * Installed git
-* Cloned repository https://github.com/AngelTX/CatalogProject into my /var/www directory.
+* Cloned repository `https://github.com/AngelTX/CatalogProject` into my `/var/www/` directory.
 * Installed the following programs:
 * flask
 * httplib2
@@ -75,4 +75,3 @@
 * [Digital Ocean - How To Configure SSH Key-Based Authentication on a Linux Server](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
 * [Ubuntu Docs - Changing the Timezone](https://help.ubuntu.com/community/UbuntuTime)
 * [Amazon Lightsail Docs](https://aws.amazon.com/documentation/lightsail/)
-* Countless StackOverflow pages.
